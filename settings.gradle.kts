@@ -12,5 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "sqlconnected"
-include ':app'
+
+rootProject.name = "mini2"
+include(":app")
+ 
