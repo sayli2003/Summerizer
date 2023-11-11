@@ -26,9 +26,7 @@ You can also view the Summary in the in History using the app.
         - Java
 
 
-## Architecture
 
- <img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/70632cc6-6575-48fc-8e99-3b42b2bc1e29" width="75%" height="50%">
 
 ## How to run?
 ### Deploying the software :
@@ -41,26 +39,27 @@ You can also view the Summary in the in History using the app.
 
  ## Screenshots
 
+
+
  ### Login / Sign Up
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/85f07783-0f70-4e84-ad42-3edccc8d663b" width="75%" height="50%">
-
-### Dashboard
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/b13469da-4067-4510-bf3c-737a16ca727a" width="75%" height="50%">
-
-### Recommendations
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/158b7e84-1e48-4425-84aa-f2d1564a6a43" width="75%" height="50%">
-
-### Searching Packages
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/b04b5508-616e-4e7b-b9dc-74b7ab572653" width="75%" height="50%">
-
-### Package Details
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/279b12db-6631-421c-8c2a-022ee60257fa" width="75%" height="50%">
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/0336f44f-e4fa-4eff-8d50-eb18dfa7421b" width="75%" height="50%">
-
-### User-Profile
-<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/2f11e27e-d572-4c3b-8243-9d0856b883a2" width="75%" height="50%">
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/9cfc9448-d0c0-4929-8513-d3a9cf0678fd" width="75%" height="50%">
 
 
+ ### Audio
+<img src="<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/85f07783-0f70-4e84-ad42-3edccc8d663b" width="75%" height="50%">" width="75%" height="50%">
 
 
+ ### Text
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/926acd7d-83ba-4d64-a1ae-834d4a24bac6" width="75%" height="50%">
 
+
+ ### Video
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/cdcf0824-5489-4d87-8d3b-4ee57da05126" width="75%" height="50%">
+
+
+ ### PDF
+
+ <img src="https://github.com/sayli2003/Summerizer/assets/95756364/788900fe-40c6-4cbf-b0e2-e2326fa28e5f" width="75%" height="50%">
+
+ 
+ 
