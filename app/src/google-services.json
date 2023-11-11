@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "154342224284",
+    "firebase_url": "https://fir-auth-bccd9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-auth-bccd9",
+    "storage_bucket": "fir-auth-bccd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154342224284:android:afc5b4b7bee364202d1859",
+        "android_client_info": {
+          "package_name": "com.example.mini2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKMMY02s5MjWuFARJbJj4PTVxOqy8JY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
