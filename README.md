@@ -42,24 +42,26 @@ You can also view the Summary in the in History using the app.
 
 
  ### Login / Sign Up
-<img src="https://github.com/sayli2003/Summerizer/assets/95756364/9cfc9448-d0c0-4929-8513-d3a9cf0678fd" width="75%" height="50%">
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/9cfc9448-d0c0-4929-8513-d3a9cf0678fd" width="75%" height="25%">
 
 
  ### Audio
-<img src="<img src="https://github.com/sayli2003/Tour-Reccomandation/assets/95756364/85f07783-0f70-4e84-ad42-3edccc8d663b" width="75%" height="50%">" width="75%" height="50%">
+ 
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/1d05ec4d-7b9f-487f-8496-0b80d66a5510" width="75%" height="25%">
 
 
  ### Text
-<img src="https://github.com/sayli2003/Summerizer/assets/95756364/926acd7d-83ba-4d64-a1ae-834d4a24bac6" width="75%" height="50%">
+
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/926acd7d-83ba-4d64-a1ae-834d4a24bac6" width="75%" height="25%">
 
 
  ### Video
-<img src="https://github.com/sayli2003/Summerizer/assets/95756364/cdcf0824-5489-4d87-8d3b-4ee57da05126" width="75%" height="50%">
+<img src="https://github.com/sayli2003/Summerizer/assets/95756364/cdcf0824-5489-4d87-8d3b-4ee57da05126" width="75%" height="25%">
 
 
  ### PDF
 
- <img src="https://github.com/sayli2003/Summerizer/assets/95756364/788900fe-40c6-4cbf-b0e2-e2326fa28e5f" width="75%" height="50%">
+ <img src="https://github.com/sayli2003/Summerizer/assets/95756364/788900fe-40c6-4cbf-b0e2-e2326fa28e5f" width="75%" height="25%">
 
  
  
